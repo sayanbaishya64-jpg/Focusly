@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FOCUSLY</string>
+    <string name="app_tagline">Take Control. Stay Focused. Achieve More.</string>
+    <string name="get_started">Get Started</string>
+    <string name="continue_label">Continue</string>
+    <string name="skip_label">Skip for now</string>
+    <string name="back_label">Back</string>
+    <string name="step_progress">Step %1$d of %2$d</string>
+
+    <string name="onboarding_welcome_subtitle">Build steady study habits, minimize digital noise, and protect your concentration without leaving your device data exposed.</string>
+
+    <string name="onboarding_category_title">How do you study?</string>
+    <string name="onboarding_category_subtitle">Choose your current academic stage so FOCUSLY can tailor your focus workspace.</string>
+    <string name="category_school">School Student</string>
+    <string name="category_school_desc">Daily schoolwork, homework routines, and exam prep</string>
+    <string name="category_college">College Student</string>
+    <string name="category_college_desc">Lectures, assignments, labs, and semester projects</string>
+    <string name="category_competitive">Competitive Exam Aspirant</string>
+    <string name="category_competitive_desc">Deep revision blocks, mock tests, and sustained discipline</string>
+    <string name="category_self">Self Learner</string>
+    <string name="category_self_desc">Independent courses, coding, reading, and skill mastery</string>
+
+    <string name="onboarding_goals_title">What matters most right now?</string>
+    <string name="onboarding_goals_subtitle">Select one or more goals to shape your daily study rhythm.</string>
+    <string name="goal_concentration">Improve concentration</string>
+    <string name="goal_distractions">Reduce distractions</string>
+    <string name="goal_consistency">Build consistency</string>
+    <string name="goal_daily_goals">Complete daily goals</string>
+
+    <string name="onboarding_target_title">Set your daily focus target</string>
+    <string name="onboarding_target_subtitle">Pick a realistic daily commitment. You can adjust this anytime in Profile.</string>
+    <string name="target_custom">Custom duration</string>
+    <string name="target_minutes_unit">%1$d minutes</string>
+    <string name="target_custom_hint">Enter minutes (10 – 480)</string>
+
+    <string name="onboarding_language_title">Choose your language</string>
+    <string name="onboarding_language_subtitle">Switch between English and Bengali at any time without losing local data.</string>
+    <string name="lang_english">English</string>
+    <string name="lang_bengali">বাংলা (Bengali)</string>
+
+    <string name="onboarding_distraction_title">Distraction preferences</string>
+    <string name="onboarding_distraction_subtitle">Optionally pick apps that pull your attention away. FOCUSLY never uploads usage data and never blocks emergency or essential system tools.</string>
+    <string name="permission_usage_title">Usage Access (Optional)</string>
+    <string name="permission_usage_desc">Used strictly on-device during active focus sessions to detect when a selected distracting app opens. Requested only if you enable distraction alerts in Phase 4.</string>
+    <string name="permission_notif_title">Focus Notifications</string>
+    <string name="permission_notif_desc">Shows your active timer in the notification shade and alerts you gently when a focus block finishes.</string>
+    <string name="finish_setup">Finish Setup</string>
+
+    <string name="nav_home">Home</string>
+    <string name="nav_focus">Focus</string>
+    <string name="nav_study">Study</string>
+    <string name="nav_progress">Progress</string>
+    <string name="nav_profile">Profile</string>
+
+    <string name="greeting_morning">Good morning</string>
+    <string name="greeting_afternoon">Good afternoon</string>
+    <string name="greeting_evening">Good evening</string>
+    <string name="daily_target_label">Today\'s Focus Goal</string>
+    <string name="phase_one_ready">Phase 1 Foundation Ready</string>
+
+    <string name="home_start_focus">Start Focus</string>
+    <string name="home_completed_label">Completed</string>
+    <string name="home_remaining_label">Remaining</string>
+    <string name="home_progress_label">Progress</string>
+    <string name="home_current_task">Current Study Task</string>
+    <string name="home_no_task_selected">No study task selected.</string>
+    <string name="home_add_task">Add Task</string>
+    <string name="home_rewards_preview">Rewards Preview</string>
+    <string name="home_focus_coins">Focus Coins</string>
+    <string name="home_achievements">Achievements</string>
+    <string name="home_view_rewards">View Rewards</string>
+    <string name="home_weekly_summary">Weekly Summary</string>
+    <string name="home_weekly_minutes">Weekly Focus</string>
+    <string name="home_completed_sessions">Completed Sessions</string>
+    <string name="home_no_sessions_yet">No completed sessions today. Start a focus block to track progress.</string>
+    <string name="home_no_weekly_activity">No weekly activity recorded yet.</string>
+
+    <string name="timer_mode_focus">Focus</string>
+    <string name="timer_mode_break">Break</string>
+    <string name="timer_start">Start Focus</string>
+    <string name="timer_start_break">Start Break</string>
+    <string name="timer_pause">Pause</string>
+    <string name="timer_resume">Resume</string>
+    <string name="timer_end_session">End Session</string>
+    <string name="timer_end_confirm_title">End focus session early?</string>
+    <string name="timer_end_confirm_body">Actual focused time will be saved separately. Only full sessions count toward completed session milestones.</string>
+    <string name="timer_blocker_placeholder">Distraction Blocker: Scheduled for Phase 4</string>
+    <string name="timer_completed_title">Focus Session Completed!</string>
+    <string name="timer_break_completed_title">Break Completed!</string>
+    <string name="timer_completed_message">Consistent blocks like this build lasting concentration.</string>
+    <string name="timer_start_another">Start Another Session</string>
+    <string name="timer_take_break">Take a Break</string>
+    <string name="timer_return_home">Return Home</string>
+    <string name="timer_recovery_title">An unfinished focus session was found.</string>
+    <string name="timer_recovery_body">You can resume where you left off using accurate elapsed time, or end the session now.</string>
+    <string name="timer_recovery_resume">Resume Session</string>
+    <string name="timer_recovery_end">End Session</string>
+    <string name="timer_notification_channel_name">Active Focus Timer</string>
+    <string name="timer_completion_channel_name">Session Completion Alerts</string>
+
+    <string name="adaptive_title">Recommended Focus</string>
+    <string name="adaptive_start_recommended">Start Recommended (%1$d min)</string>
+    <string name="adaptive_use_duration">Use %1$d min</string>
+    <string name="adaptive_ignore">Ignore</string>
+    <string name="adaptive_insufficient_title">Building your focus baseline</string>
+    <string name="adaptive_insufficient_desc">Complete at least 3 focus sessions so FOCUSLY can suggest realistic durations from your local history.</string>
+
+    <string name="blocker_title">Distraction Blocker</string>
+    <string name="blocker_subtitle">Transparent, permission-based reminders during active focus blocks.</string>
+    <string name="blocker_enable_label">Enable Distraction Awareness</string>
+    <string name="blocker_status_active">Active during focus</string>
+    <string name="blocker_status_checklist">Checklist mode (No Usage Access)</string>
+    <string name="blocker_status_disabled">Disabled</string>
+    <string name="blocker_perm_granted">Usage Access Granted</string>
+    <string name="blocker_perm_denied">Usage Access Not Granted</string>
+    <string name="blocker_grant_perm">Open Usage Access Settings</string>
+    <string name="blocker_revoke_perm">Manage or Revoke in Android Settings</string>
+    <string name="blocker_privacy_note">FOCUSLY checks foreground apps strictly on-device during active focus sessions. No app usage is ever uploaded, and emergency or system settings are never blocked.</string>
+    <string name="blocker_test_status">Test Blocker Status</string>
+    <string name="blocker_selected_apps">Managed Distraction Apps</string>
+
+    <string name="recovery_title">Ready to continue?</string>
+    <string name="recovery_fresh_start">A fresh start is always possible. Your progress is still valuable.</string>
+    <string name="recovery_shorter_prompt">Would you like to try a shorter %1$d-minute session?</string>
+    <string name="recovery_resume_btn">Resume Session</string>
+    <string name="recovery_shorter_btn">Restart Shorter (%1$d min)</string>
+    <string name="recovery_dismiss_btn">Dismiss</string>
+
+    <string name="study_planner_title">Study Planner</string>
+    <string name="study_planner_subtitle">Organize subjects, priorities, and daily focus blocks offline.</string>
+    <string name="study_add_task">Add Task</string>
+    <string name="study_edit_task">Edit Task</string>
+    <string name="study_add_subject">Add Subject</string>
+    <string name="study_subjects_heading">Subjects</string>
+    <string name="study_no_subjects">No subjects yet. Add subjects like Mathematics, Physics, or Revision.</string>
+    <string name="study_subject_name_hint">Subject name</string>
+    <string name="study_filter_today">Today</string>
+    <string name="study_filter_upcoming">Upcoming</string>
+    <string name="study_filter_all">All</string>
+    <string name="study_filter_completed">Completed</string>
+    <string name="study_overdue_banner_title">%1$d unfinished tasks from earlier days</string>
+    <string name="study_overdue_banner_desc">Move remaining tasks to today so nothing slips through the cracks.</string>
+    <string name="study_move_to_today">Move to Today</string>
+    <string name="study_empty_tasks_title">No study tasks in this view</string>
+    <string name="study_empty_tasks_desc">Add a focused task with subject, priority, and target minutes to start strong.</string>
+    <string name="study_priority_heading">Priority</string>
+    <string name="study_priority_low">Low</string>
+    <string name="study_priority_medium">Medium</string>
+    <string name="study_priority_high">High</string>
+    <string name="study_schedule_heading">Schedule</string>
+    <string name="study_schedule_today">Today</string>
+    <string name="study_schedule_tomorrow">Tomorrow</string>
+    <string name="study_schedule_unscheduled">Unscheduled</string>
+    <string name="study_focus_now">Focus</string>
+    <string name="study_task_title_label">Task title</string>
+    <string name="study_task_notes_label">Notes (optional)</string>
+    <string name="study_task_minutes_label">Planned minutes</string>
+    <string name="study_save">Save</string>
+    <string name="study_cancel">Cancel</string>
+    <string name="study_close">Close</string>
+    <string name="study_delete">Delete</string>
+
+    <string name="progress_title">Progress &amp; Analytics</string>
+    <string name="progress_subtitle">Measured strictly from your locally recorded focus sessions.</string>
+    <string name="progress_period_week">7 Days</string>
+    <string name="progress_period_month">30 Days</string>
+    <string name="progress_total_focus">Total Focus</string>
+    <string name="progress_completion_rate">Completion Rate</string>
+    <string name="progress_avg_session">Avg Session</string>
+    <string name="progress_tasks_done">Tasks Done</string>
+    <string name="progress_activity_title">Focus Activity</string>
+    <string name="progress_active_days">%1$d / %2$d active days</string>
+    <string name="progress_no_activity">Complete a focus session to see daily progress bars.</string>
+    <string name="progress_subject_breakdown">Subject Breakdown</string>
+    <string name="progress_no_subject_data">No completed subject focus sessions in this range yet.</string>
+
+    <string name="rewards_title">Rewards &amp; Garden</string>
+    <string name="rewards_subtitle">Earned exclusively from genuinely completed focus sessions.</string>
+    <string name="rewards_lifetime_earned">%1$d lifetime earned</string>
+    <string name="rewards_streak_label">Study Streak</string>
+    <string name="rewards_sessions_completed_count">%1$d focus sessions</string>
+    <string name="rewards_garden_title">Virtual Garden</string>
+    <string name="rewards_stage_seedling">Seedling</string>
+    <string name="rewards_stage_sprouting">Sprouting</string>
+    <string name="rewards_stage_blooming">Blooming</string>
+    <string name="rewards_garden_hint_seedling">Complete 2 focus sessions to reach Sprouting stage.</string>
+    <string name="rewards_garden_hint_sprouting">Complete 5 focus sessions to reach full Bloom.</string>
+    <string name="rewards_garden_hint_blooming">Your study companion is in full bloom.</string>
+    <string name="rewards_store_title">Garden Companion Store</string>
+    <string name="rewards_featured_badge">Featured</string>
+    <string name="rewards_set_featured">Set Active</string>
+    <string name="rewards_ledger_title">Recent Coin Activity</string>
+    <string name="rewards_ledger_empty">Complete a focus session to earn your first Focus Coins.</string>
+    <string name="rewards_session_coins_earned">Focus Coins Earned</string>
+    <string name="rewards_purchase_success">Unlocked new garden companion.</string>
+    <string name="rewards_purchase_insufficient">Not enough Focus Coins yet. Complete more sessions to earn coins.</string>
+    <string name="rewards_purchase_already">This companion is already unlocked.</string>
+    <string name="rewards_purchase_not_found">Reward item unavailable.</string>
+
+    <string name="missions_title">Daily Study Missions</string>
+    <string name="missions_completed_summary">%1$d / %2$d completed</string>
+    <string name="missions_claim_btn">Claim +%1$dc</string>
+    <string name="missions_claimed_badge">Claimed</string>
+    <string name="missions_in_progress">In Progress</string>
+
+    <string name="focus_mode_manual">Manual</string>
+    <string name="focus_mode_auto">Auto-Schedule</string>
+    <string name="focus_mode_smart">Smart</string>
+    <string name="focus_mode_auto_hint">Selected next planned task: %1$s (%2$d min)</string>
+    <string name="focus_mode_auto_empty">No pending study tasks found. Add a task in Study Planner.</string>
+    <string name="focus_mode_smart_hint">Using Adaptive Focus duration (%1$d min) from your history.</string>
+
+    <string name="breathing_action_btn">1-Min Calm Reset</string>
+    <string name="breathing_title">1-Minute Box Breathing</string>
+    <string name="breathing_subtitle">Follow a steady 4-4-4-4 rhythm to settle your attention before studying.</string>
+    <string name="breathing_inhale">Inhale</string>
+    <string name="breathing_hold">Hold</string>
+    <string name="breathing_exhale">Exhale</string>
+    <string name="breathing_rest">Rest</string>
+    <string name="breathing_complete">Reset Complete</string>
+    <string name="breathing_remaining_seconds">%1$ds remaining</string>
+    <string name="breathing_done_hint">Mind settled. Ready when you are.</string>
+
+    <string name="backup_title">Local JSON Backup &amp; Restore</string>
+    <string name="backup_subtitle">Export your study sessions, tasks, subjects, rewards, and preferences to a local JSON file, or restore from an existing backup.</string>
+    <string name="backup_export_btn">Export Backup JSON</string>
+    <string name="backup_import_btn">Restore from JSON</string>
+    <string name="backup_export_success">Backup file exported successfully.</string>
+    <string name="backup_import_success">Restored %1$d sessions, %2$d tasks, and %3$d subjects.</string>
+    <string name="backup_import_error">Restore failed: %1$s</string>
+</resources>

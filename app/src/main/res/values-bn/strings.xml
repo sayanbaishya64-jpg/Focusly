@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FOCUSLY</string>
+    <string name="app_tagline">নিয়ন্ত্রণ নিন। মনোযোগ ধরে রাখুন। আরও অর্জন করুন।</string>
+    <string name="get_started">শুরু করুন</string>
+    <string name="continue_label">পরবর্তী</string>
+    <string name="skip_label">আপাতত এড়িয়ে যান</string>
+    <string name="back_label">পেছনে</string>
+    <string name="step_progress">ধাপ %1$d / %2$d</string>
+
+    <string name="onboarding_welcome_subtitle">সুস্থ পড়াশোনার অভ্যাস গড়ে তুলুন, ডিজিটাল বিভ্রান্তি কমান এবং সম্পূর্ণ অফলাইনে আপনার মনোযোগ রক্ষা করুন।</string>
+
+    <string name="onboarding_category_title">আপনি কীভাবে পড়াশোনা করেন?</string>
+    <string name="onboarding_category_subtitle">আপনার বর্তমান শিক্ষাস্তর নির্বাচন করুন যাতে FOCUSLY উপযুক্ত কর্মক্ষেত্র তৈরি করতে পারে।</string>
+    <string name="category_school">স্কুল শিক্ষার্থী</string>
+    <string name="category_school_desc">দৈনন্দিন স্কুলের পড়া, বাড়ির কাজ এবং পরীক্ষার প্রস্তুতি</string>
+    <string name="category_college">কলেজ / বিশ্ববিদ্যালয় শিক্ষার্থী</string>
+    <string name="category_college_desc">লেকচার, অ্যাসাইনমেন্ট, ল্যাব এবং সেমিস্টার প্রজেক্ট</string>
+    <string name="category_competitive">প্রতিযোগিতামূলক পরীক্ষার প্রার্থী</string>
+    <string name="category_competitive_desc">গভীর রিভিশন সেশন, মক টেস্ট এবং নিয়মিত শৃঙ্খলা</string>
+    <string name="category_self">স্ব-শিক্ষার্থী</string>
+    <string name="category_self_desc">অনলাইন কোর্স, কোডিং, বই পড়া এবং দক্ষতা উন্নয়ন</string>
+
+    <string name="onboarding_goals_title">এই মুহূর্তে আপনার প্রধান লক্ষ্য কী?</string>
+    <string name="onboarding_goals_subtitle">দৈনন্দিন অধ্যয়নের ছন্দ ঠিক করতে এক বা একাধিক লক্ষ্য বেছে নিন।</string>
+    <string name="goal_concentration">মনোযোগ বৃদ্ধি করা</string>
+    <string name="goal_distractions">বিভ্রান্তি কমানো</string>
+    <string name="goal_consistency">ধারাবাহিকতা তৈরি করা</string>
+    <string name="goal_daily_goals">দৈনিক লক্ষ্য পূরণ করা</string>
+
+    <string name="onboarding_target_title">দৈনিক ফোকাস লক্ষ্য নির্ধারণ করুন</string>
+    <string name="onboarding_target_subtitle">বাস্তবসম্মত দৈনিক সময় বেছে নিন। প্রোফাইল থেকে যেকোনো সময় পরিবর্তন করা যাবে।</string>
+    <string name="target_custom">কাস্টম সময়</string>
+    <string name="target_minutes_unit">%1$d মিনিট</string>
+    <string name="target_custom_hint">মিনিট লিখুন (১০ – ৪৮০)</string>
+
+    <string name="onboarding_language_title">আপনার ভাষা নির্বাচন করুন</string>
+    <string name="onboarding_language_subtitle">যেকোনো সময় কোনো ডেটা না হারিয়ে ইংরেজি ও বাংলার মধ্যে পরিবর্তন করুন।</string>
+    <string name="lang_english">English</string>
+    <string name="lang_bengali">বাংলা (Bengali)</string>
+
+    <string name="onboarding_distraction_title">বিভ্রান্তি নিয়ন্ত্রণ পছন্দ</string>
+    <string name="onboarding_distraction_subtitle">ঐচ্ছিকভাবে এমন অ্যাপ নির্বাচন করুন যা আপনার মনোযোগ নষ্ট করে। FOCUSLY কোনো ডেটা সার্ভারে পাঠায় না এবং জরুরি সেবা ব্লক করে না।</string>
+    <string name="permission_usage_title">অ্যাপ ব্যবহারের অনুমতি (ঐচ্ছিক)</string>
+    <string name="permission_usage_desc">সক্রিয় ফোকাস সেশনের সময় নির্বাচিত অ্যাপ খুললে কেবল ডিভাইসের ভেতরেই সতর্কতা দেখাতে ব্যবহৃত হয়।</string>
+    <string name="permission_notif_title">ফোকাস নোটিফিকেশন</string>
+    <string name="permission_notif_desc">সক্রিয় টাইমার প্রদর্শন করে এবং সেশন শেষ হলে জানিয়ে দেয়।</string>
+    <string name="finish_setup">সেটআপ সম্পন্ন করুন</string>
+
+    <string name="nav_home">হোম</string>
+    <string name="nav_focus">ফোকাস</string>
+    <string name="nav_study">পড়াশোনা</string>
+    <string name="nav_progress">অগ্রগতি</string>
+    <string name="nav_profile">প্রোফাইল</string>
+
+    <string name="greeting_morning">সুপ্রভাত</string>
+    <string name="greeting_afternoon">শুভ অপরাহ্ন</string>
+    <string name="greeting_evening">শুভ সন্ধ্যা</string>
+    <string name="daily_target_label">আজকের ফোকাস লক্ষ্য</string>
+    <string name="phase_one_ready">ফেজ ১ ভিত্তি প্রস্তুত</string>
+
+    <string name="home_start_focus">ফোকাস শুরু করুন</string>
+    <string name="home_completed_label">সম্পন্ন</string>
+    <string name="home_remaining_label">বাকি</string>
+    <string name="home_progress_label">অগ্রগতি</string>
+    <string name="home_current_task">বর্তমান অধ্যয়নের কাজ</string>
+    <string name="home_no_task_selected">কোনো অধ্যয়নের কাজ নির্বাচিত নেই।</string>
+    <string name="home_add_task">কাজ যোগ করুন</string>
+    <string name="home_rewards_preview">পুরস্কার প্রিভিউ</string>
+    <string name="home_focus_coins">ফোকাস কয়েন</string>
+    <string name="home_achievements">অর্জনসমূহ</string>
+    <string name="home_view_rewards">পুরস্কার দেখুন</string>
+    <string name="home_weekly_summary">সাপ্তাহিক সারসংক্ষেপ</string>
+    <string name="home_weekly_minutes">সাপ্তাহিক ফোকাস</string>
+    <string name="home_completed_sessions">সম্পন্ন সেশন</string>
+    <string name="home_no_sessions_yet">আজ এখনো কোনো সেশন সম্পন্ন হয়নি। অগ্রগতি দেখতে ফোকাস শুরু করুন।</string>
+    <string name="home_no_weekly_activity">এখনো কোনো সাপ্তাহিক কার্যকলাপ নেই।</string>
+
+    <string name="timer_mode_focus">ফোকাস</string>
+    <string name="timer_mode_break">বিরতি</string>
+    <string name="timer_start">ফোকাস শুরু করুন</string>
+    <string name="timer_start_break">বিরতি শুরু করুন</string>
+    <string name="timer_pause">বিরতি নিন</string>
+    <string name="timer_resume">পুনরায় শুরু করুন</string>
+    <string name="timer_end_session">সেশন শেষ করুন</string>
+    <string name="timer_end_confirm_title">ফোকাস সেশন আগেই শেষ করবেন?</string>
+    <string name="timer_end_confirm_body">প্রকৃত ফোকাস সময় আলাদাভাবে সংরক্ষিত হবে। কেবল পূর্ণ সেশনগুলো সম্পন্ন সেশন হিসেবে গণ্য হবে।</string>
+    <string name="timer_blocker_placeholder">বিভ্রান্তি নিয়ন্ত্রণ: ফেজ ৪-এ সক্রিয় হবে</string>
+    <string name="timer_completed_title">ফোকাস সেশন সম্পন্ন হয়েছে!</string>
+    <string name="timer_break_completed_title">বিরতি সম্পন্ন হয়েছে!</string>
+    <string name="timer_completed_message">নিয়মিত এমন সেশন আপনার মনোযোগকে আরও দৃঢ় করে তোলে।</string>
+    <string name="timer_start_another">আরেকটি সেশন শুরু করুন</string>
+    <string name="timer_take_break">বিরতি নিন</string>
+    <string name="timer_return_home">হোমে ফিরুন</string>
+    <string name="timer_recovery_title">একটি অসমাপ্ত ফোকাস সেশন পাওয়া গেছে।</string>
+    <string name="timer_recovery_body">সঠিক অতিবাহিত সময়সহ সেশনটি পুনরায় শুরু করুন অথবা এখনই শেষ করুন।</string>
+    <string name="timer_recovery_resume">সেশন চালিয়ে যান</string>
+    <string name="timer_recovery_end">সেশন শেষ করুন</string>
+    <string name="timer_notification_channel_name">সক্রিয় ফোকাস টাইমার</string>
+    <string name="timer_completion_channel_name">সেশন সমাপ্তির সতর্কতা</string>
+
+    <string name="adaptive_title">প্রস্তাবিত ফোকাস সময়</string>
+    <string name="adaptive_start_recommended">প্রস্তাবিত শুরু করুন (%1$d মিনিট)</string>
+    <string name="adaptive_use_duration">%1$d মিনিট ব্যবহার করুন</string>
+    <string name="adaptive_ignore">উপেক্ষা করুন</string>
+    <string name="adaptive_insufficient_title">আপনার ফোকাস ভিত্তি তৈরি হচ্ছে</string>
+    <string name="adaptive_insufficient_desc">আপনার স্থানীয় ইতিহাস থেকে বাস্তবসম্মত সময়ের পরামর্শ পেতে অন্তত ৩টি ফোকাস সেশন সম্পন্ন করুন।</string>
+
+    <string name="blocker_title">বিভ্রান্তি নিয়ন্ত্রণ</string>
+    <string name="blocker_subtitle">সক্রিয় ফোকাস সেশনের সময় স্বচ্ছ ও অনুমতি-ভিত্তিক সতর্কতা।</string>
+    <string name="blocker_enable_label">বিভ্রান্তি সচেতনতা সক্রিয় করুন</string>
+    <string name="blocker_status_active">ফোকাসের সময় সক্রিয়</string>
+    <string name="blocker_status_checklist">চেকলিস্ট মোড (অনুমতি ছাড়া)</string>
+    <string name="blocker_status_disabled">নিষ্ক্রিয়</string>
+    <string name="blocker_perm_granted">ব্যবহারের অনুমতি দেওয়া হয়েছে</string>
+    <string name="blocker_perm_denied">ব্যবহারের অনুমতি দেওয়া হয়নি</string>
+    <string name="blocker_grant_perm">অনুমতি সেটিংস খুলুন</string>
+    <string name="blocker_revoke_perm">অ্যান্ড্রয়েড সেটিংসে অনুমতি পরিবর্তন করুন</string>
+    <string name="blocker_privacy_note">FOCUSLY কেবল সক্রিয় ফোকাস সেশনের সময় ডিভাইসের ভেতরেই সতর্কতা দেখায়। কোনো তথ্য সার্ভারে পাঠানো হয় না এবং জরুরি সেবা কখনোই ব্লক করা হয় না।</string>
+    <string name="blocker_test_status">স্ট্যাটাস পরীক্ষা করুন</string>
+    <string name="blocker_selected_apps">নির্বাচিত বিভ্রান্তিকর অ্যাপ</string>
+
+    <string name="recovery_title">পুনরায় শুরু করতে প্রস্তুত?</string>
+    <string name="recovery_fresh_start">নতুন করে শুরু করা সবসময়ই সম্ভব। আপনার প্রতিটি প্রচেষ্টাই মূল্যবান।</string>
+    <string name="recovery_shorter_prompt">আপনি কি ছোট %1$d মিনিটের সেশন চেষ্টা করতে চান?</string>
+    <string name="recovery_resume_btn">সেশন চালিয়ে যান</string>
+    <string name="recovery_shorter_btn">ছোট সেশন শুরু করুন (%1$d মি.)</string>
+    <string name="recovery_dismiss_btn">বাদ দিন</string>
+
+    <string name="study_planner_title">স্টাডি প্ল্যানার</string>
+    <string name="study_planner_subtitle">অফলাইনেই বিষয়, কাজের অগ্রাধিকার ও দৈনিক অধ্যয়ন সূচি সাজান।</string>
+    <string name="study_add_task">কাজ যোগ করুন</string>
+    <string name="study_edit_task">কাজ সম্পাদনা</string>
+    <string name="study_add_subject">বিষয় যোগ করুন</string>
+    <string name="study_subjects_heading">বিষয়সমূহ</string>
+    <string name="study_no_subjects">এখনো কোনো বিষয় নেই। গণিত, পদার্থবিজ্ঞান বা রিভিশন যোগ করুন।</string>
+    <string name="study_subject_name_hint">বিষয়ের নাম</string>
+    <string name="study_filter_today">আজ</string>
+    <string name="study_filter_upcoming">আসন্ন</string>
+    <string name="study_filter_all">সব</string>
+    <string name="study_filter_completed">সম্পন্ন</string>
+    <string name="study_overdue_banner_title">আগের দিনের %1$dটি অসমাপ্ত কাজ রয়েছে</string>
+    <string name="study_overdue_banner_desc">কোনো কাজ বাদ না পড়তে এগুলো আজকের সূচিতে নিয়ে আসুন।</string>
+    <string name="study_move_to_today">আজে সরান</string>
+    <string name="study_empty_tasks_title">এই তালিকায় কোনো কাজ নেই</string>
+    <string name="study_empty_tasks_desc">বিষয়, অগ্রাধিকার ও লক্ষ্য সময়সহ একটি অধ্যয়নের কাজ যোগ করুন।</string>
+    <string name="study_priority_heading">অগ্রাধিকার</string>
+    <string name="study_priority_low">কম</string>
+    <string name="study_priority_medium">মাঝারি</string>
+    <string name="study_priority_high">উচ্চ</string>
+    <string name="study_schedule_heading">সময়সূচি</string>
+    <string name="study_schedule_today">আজ</string>
+    <string name="study_schedule_tomorrow">আগামীকাল</string>
+    <string name="study_schedule_unscheduled">অনির্ধারিত</string>
+    <string name="study_focus_now">ফোকাস</string>
+    <string name="study_task_title_label">কাজের শিরোনাম</string>
+    <string name="study_task_notes_label">নোট (ঐচ্ছিক)</string>
+    <string name="study_task_minutes_label">পরিকল্পিত মিনিট</string>
+    <string name="study_save">সংরক্ষণ</string>
+    <string name="study_cancel">বাতিল</string>
+    <string name="study_close">বন্ধ</string>
+    <string name="study_delete">মুছুন</string>
+
+    <string name="progress_title">অগ্রগতি ও বিশ্লেষণ</string>
+    <string name="progress_subtitle">সম্পূর্ণভাবে আপনার স্থানীয় ফোকাস সেশন থেকে গণনাকৃত।</string>
+    <string name="progress_period_week">৭ দিন</string>
+    <string name="progress_period_month">৩০ দিন</string>
+    <string name="progress_total_focus">মোট ফোকাস</string>
+    <string name="progress_completion_rate">সম্পন্নের হার</string>
+    <string name="progress_avg_session">গড় সেশন</string>
+    <string name="progress_tasks_done">সম্পন্ন কাজ</string>
+    <string name="progress_activity_title">ফোকাস কার্যকলাপ</string>
+    <string name="progress_active_days">%2$d দিনের মধ্যে %1$d দিন সক্রিয়</string>
+    <string name="progress_no_activity">দৈনিক অগ্রগতি দেখতে একটি ফোকাস সেশন সম্পন্ন করুন।</string>
+    <string name="progress_subject_breakdown">বিষয়ভিত্তিক বিশ্লেষণ</string>
+    <string name="progress_no_subject_data">এই সময়কালে এখনো কোনো বিষয়ভিত্তিক সম্পন্ন সেশন নেই।</string>
+
+    <string name="rewards_title">পুরস্কার ও গার্ডেন</string>
+    <string name="rewards_subtitle">কেবল সত্যিকারের সম্পন্ন ফোকাস সেশন থেকেই অর্জিত।</string>
+    <string name="rewards_lifetime_earned">মোট অর্জিত %1$d</string>
+    <string name="rewards_streak_label">অধ্যয়নের ধারা</string>
+    <string name="rewards_sessions_completed_count">%1$dটি সম্পন্ন সেশন</string>
+    <string name="rewards_garden_title">ভার্চুয়াল গার্ডেন</string>
+    <string name="rewards_stage_seedling">অঙ্কুর</string>
+    <string name="rewards_stage_sprouting">চারা</string>
+    <string name="rewards_stage_blooming">প্রস্ফুটিত</string>
+    <string name="rewards_garden_hint_seedling">চারা ধাপে যেতে ২টি ফোকাস সেশন সম্পন্ন করুন।</string>
+    <string name="rewards_garden_hint_sprouting">পূর্ণ প্রস্ফুটিত হতে ৫টি ফোকাস সেশন সম্পন্ন করুন।</string>
+    <string name="rewards_garden_hint_blooming">আপনার অধ্যয়ন সাথী সম্পূর্ণ প্রস্ফুটিত হয়েছে।</string>
+    <string name="rewards_store_title">গার্ডেন সঙ্গী স্টোর</string>
+    <string name="rewards_featured_badge">সক্রিয়</string>
+    <string name="rewards_set_featured">সক্রিয় করুন</string>
+    <string name="rewards_ledger_title">সাম্প্রতিক কয়েন বিবরণ</string>
+    <string name="rewards_ledger_empty">প্রথম ফোকাস কয়েন অর্জন করতে একটি সেশন সম্পন্ন করুন।</string>
+    <string name="rewards_session_coins_earned">অর্জিত ফোকাস কয়েন</string>
+    <string name="rewards_purchase_success">নতুন গার্ডেন সঙ্গী আনলক হয়েছে।</string>
+    <string name="rewards_purchase_insufficient">পর্যাপ্ত ফোকাস কয়েন নেই। আরও সেশন সম্পন্ন করুন।</string>
+    <string name="rewards_purchase_already">এই সঙ্গী ইতোমধ্যেই আনলক করা আছে।</string>
+    <string name="rewards_purchase_not_found">পুরস্কারটি পাওয়া যায়নি।</string>
+
+    <string name="missions_title">দৈনিক অধ্যয়ন মিশন</string>
+    <string name="missions_completed_summary">%1$d / %2$d সম্পন্ন</string>
+    <string name="missions_claim_btn">+%1$d কয়েন নিন</string>
+    <string name="missions_claimed_badge">সংগৃহীত</string>
+    <string name="missions_in_progress">চলমান</string>
+
+    <string name="focus_mode_manual">ম্যানুয়াল</string>
+    <string name="focus_mode_auto">অটো-সূচি</string>
+    <string name="focus_mode_smart">স্মার্ট</string>
+    <string name="focus_mode_auto_hint">পরবর্তী পরিকল্পিত কাজ নির্বাচিত: %1$s (%2$d মি.)</string>
+    <string name="focus_mode_auto_empty">কোনো অসমাপ্ত কাজ পাওয়া যায়নি। স্টাডি প্ল্যানারে কাজ যোগ করুন।</string>
+    <string name="focus_mode_smart_hint">আপনার ইতিহাস অনুযায়ী অ্যাডাপ্টিভ সময় (%1$d মি.) ব্যবহৃত হচ্ছে।</string>
+
+    <string name="breathing_action_btn">১-মিনিট শান্ত শ্বাস-প্রশ্বাস</string>
+    <string name="breathing_title">১-মিনিট বক্স শ্বাস-প্রশ্বাস</string>
+    <string name="breathing_subtitle">পড়াশোনার আগে মন স্থির করতে ৪-৪-৪-৪ ছন্দ অনুসরণ করুন।</string>
+    <string name="breathing_inhale">শ্বাস নিন</string>
+    <string name="breathing_hold">ধরে রাখুন</string>
+    <string name="breathing_exhale">শ্বাস ছাড়ুন</string>
+    <string name="breathing_rest">বিশ্রাম</string>
+    <string name="breathing_complete">অনুশীলন সম্পন্ন</string>
+    <string name="breathing_remaining_seconds">%1$d সে. বাকি</string>
+    <string name="breathing_done_hint">মন শান্ত হয়েছে। এখন শুরু করতে প্রস্তুত।</string>
+
+    <string name="backup_title">লোকাল JSON ব্যাকআপ ও পুনরুদ্ধার</string>
+    <string name="backup_subtitle">আপনার সেশন, কাজ, বিষয়, পুরস্কার ও পছন্দসমূহ একটি JSON ফাইলে সংরক্ষণ করুন বা আগের ব্যাকআপ থেকে পুনরুদ্ধার করুন।</string>
+    <string name="backup_export_btn">JSON ব্যাকআপ এক্সপোর্ট</string>
+    <string name="backup_import_btn">JSON থেকে পুনরুদ্ধার</string>
+    <string name="backup_export_success">ব্যাকআপ ফাইল সফলভাবে সংরক্ষিত হয়েছে।</string>
+    <string name="backup_import_success">%1$dটি সেশন, %2$dটি কাজ এবং %3$dটি বিষয় পুনরুদ্ধার হয়েছে।</string>
+    <string name="backup_import_error">পুনরুদ্ধার ব্যর্থ হয়েছে: %1$s</string>
+</resources>

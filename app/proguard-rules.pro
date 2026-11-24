@@ -1,0 +1,2 @@
+-keepattributes *Annotation*
+-keep class com.focusly.app.core.model.** { *; }
